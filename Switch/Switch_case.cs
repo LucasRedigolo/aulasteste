@@ -26,8 +26,11 @@ namespace aulasteste
                 case "5":
                     System.Console.WriteLine("Sexta-Feira");
                 break;
-
-            }
+                default:
+                System.Console.WriteLine("Digite um numero válido (entre 1-5)");
+                break;
+                
+             }
         }
     }
 }

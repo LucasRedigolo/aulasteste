@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\aulasteste\\Switch\\aulasteste.csproj",
-      "projectName": "aulasteste",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\aulasteste\\Switch\\aulasteste.csproj",
+      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\aulasteste\\Switch\\Switch_case.csproj",
+      "projectName": "Switch_case",
+      "projectPath": "C:\\Users\\FIC\\Desktop\\aulasteste\\Switch\\Switch_case.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\FIC\\Desktop\\aulasteste\\Switch\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,10 @@
+C:\Users\FIC\Desktop\aulasteste\Switch\obj\Debug\netcoreapp2.0\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\aulasteste\Switch\obj\Debug\netcoreapp2.0\Switch_case.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\aulasteste\Switch\obj\Debug\netcoreapp2.0\Switch_case.AssemblyInfo.cs
+C:\Users\FIC\Desktop\aulasteste\Switch\bin\Debug\netcoreapp2.0\Switch_case.deps.json
+C:\Users\FIC\Desktop\aulasteste\Switch\bin\Debug\netcoreapp2.0\Switch_case.runtimeconfig.json
+C:\Users\FIC\Desktop\aulasteste\Switch\bin\Debug\netcoreapp2.0\Switch_case.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\aulasteste\Switch\bin\Debug\netcoreapp2.0\Switch_case.dll
+C:\Users\FIC\Desktop\aulasteste\Switch\bin\Debug\netcoreapp2.0\Switch_case.pdb
+C:\Users\FIC\Desktop\aulasteste\Switch\obj\Debug\netcoreapp2.0\Switch_case.dll
+C:\Users\FIC\Desktop\aulasteste\Switch\obj\Debug\netcoreapp2.0\Switch_case.pdb
