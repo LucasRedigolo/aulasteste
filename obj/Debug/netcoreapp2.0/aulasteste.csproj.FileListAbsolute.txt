@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\aulasteste\obj\Debug\netcoreapp2.0\aulasteste.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\aulasteste\obj\Debug\netcoreapp2.0\aulasteste.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\aulasteste\obj\Debug\netcoreapp2.0\aulasteste.AssemblyInfo.cs
+c:\Users\FIC\Desktop\aulasteste\bin\Debug\netcoreapp2.0\aulasteste.deps.json
+c:\Users\FIC\Desktop\aulasteste\bin\Debug\netcoreapp2.0\aulasteste.runtimeconfig.json
+c:\Users\FIC\Desktop\aulasteste\bin\Debug\netcoreapp2.0\aulasteste.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\aulasteste\bin\Debug\netcoreapp2.0\aulasteste.dll
+c:\Users\FIC\Desktop\aulasteste\bin\Debug\netcoreapp2.0\aulasteste.pdb
+c:\Users\FIC\Desktop\aulasteste\obj\Debug\netcoreapp2.0\aulasteste.dll
+c:\Users\FIC\Desktop\aulasteste\obj\Debug\netcoreapp2.0\aulasteste.pdb
